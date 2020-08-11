@@ -1,0 +1,3 @@
+from master_file import password_validator
+import class_based_system
+from products import stock_manager

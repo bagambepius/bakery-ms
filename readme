@@ -1,0 +1,15 @@
+.................installtion steps.................
+
+== unzip the project folder
+== cd to project folder
+== on your terminal execute ---->>> python run.py
+password ====>> admin@dw
+
+The application runs for only 4 days then it expires
+
+.......Requirements.....
+
+1 python interpleter
+2 tkinter for popups
+3 stylize for styling content
+ 
